@@ -16,8 +16,8 @@ The assignment instructions can be found here (for my own reference):
 - **Overall Learning:** [Summarize key takeaways from the assignment]
 
 ### Reflection #1 - Assignment Git Init
-- **Date:** [10 August 2025]  
-- **Time to Complete:** [20 minutes]  
+- **Date:** 10 August 2025  
+- **Time to Complete:** 20 minutes  
 - **Challenges:** So far, no major challenges encountered.
 - **Easiest Parts:** I enjoy using Linux, and navigating the terminal was straightforward. While I’m not an expert, I’m comfortable with the basic commands.
 - **Areas for Improvement:** I aim to deepen my understanding of Git commands and improve my terminal efficiency.
