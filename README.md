@@ -7,14 +7,6 @@ The assignment instructions can be found here (for my own reference):
 
 ## Personal Reflection  
 
-### Reflection Template  
-- **Date:** [Insert Date]  
-- **Time to Complete:** [Insert time in hours]  
-- **Challenges:** [Describe specific challenges faced]  
-- **Easiest Parts:** [Describe parts found easy]  
-- **Areas for Improvement:** [Specify areas to improve]  
-- **Overall Learning:** [Summarize key takeaways from the assignment]
-
 ### Reflection #1 - Assignment Git Init
 - **Date:** 10 August 2025  
 - **Time to Complete:** 20 minutes  
