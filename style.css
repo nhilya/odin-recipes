@@ -1,0 +1,15 @@
+body {
+  font-family:Arial, Helvetica, sans-serif ; 
+  background: radial-gradient(circle, #6699ff, #e4a7f6, #6699ff);
+  color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px; 
+    width: 50%;
+    height: auto;
+}
